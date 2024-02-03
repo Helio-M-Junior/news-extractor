@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Output directories
+output/
