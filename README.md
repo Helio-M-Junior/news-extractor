@@ -69,11 +69,15 @@ picture_output = output/pictures/
 ```
 ## Logging
 
-The script logs errors to the 'output/news_extractor.log' file for debugging purposes. Adjust the logging level as needed.
+The script logs errors to the 'output/log/news_extractor.log' file for debugging purposes. Adjust the logging level as needed.
 
 ## Output
 
-The script exports the processed news data to an Excel file located at 'output/news_data.xlsx'.
+Create a folder called output.
+
+The script exports the processed news data to an Excel file located at a folder called excel (that need to be create as well) inside output.
+
+The script exports the downloaded images to a folder called pictures (that need to be create as well) inside output
 
 ## Notes
 
