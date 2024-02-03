@@ -52,8 +52,8 @@ section = Sport
 ; Type of date range to consider
 date_type = Specific Dates
 
-; Number of months to consider in the search 
-; (e.g., 0 or 1 - only the current month, 2 - current and previous month, 3 - current and two previous months, and so on)
+; Number of months to consider in the search (e.g., 0 or 1 - only the current month,
+; 2 - current and previous month, 3 - current and two previous months, and so on)
 months = 2
 
 ; Number of additional pages to load (e.g., set to 1 to extract 20 news, each page contains 10 news)
